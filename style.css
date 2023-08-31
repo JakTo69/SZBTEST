@@ -115,6 +115,7 @@ nav {
 
 /*sekcja zwijana*/
 
+
 .burger {
     display: none;
 }
@@ -131,14 +132,13 @@ nav {
         width: 60%;
     }
 }
-@media screen and (max-width:1350px) {
+@media screen and (max-width:1260px) {
     body{
         overflow-x: hidden;
     }
     
     .logo {
         display: none;
-        
     }
     .nav-links {
         z-index: 1;
@@ -164,7 +164,6 @@ nav {
         margin-right: 0%;
 
         display: block;
-
     }
     .kontrast{
         display: none;
