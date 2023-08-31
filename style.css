@@ -132,7 +132,7 @@ nav {
         width: 60%;
     }
 }
-@media screen and (max-width:1260px) {
+@media screen and (max-width:1350px) {
     body{
         overflow-x: hidden;
     }
@@ -168,6 +168,10 @@ nav {
     .kontrast{
         display: none;
     }
+
+    .right{
+        display: none;
+    }
 }
 
 .nav-active {
@@ -184,6 +188,7 @@ opacity: 1;
 transform: translateX(0px);
     }
 }
+
 
 /*główna sekcja*/
 
