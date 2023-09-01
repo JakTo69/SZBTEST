@@ -167,6 +167,12 @@ nav {
     .kontrast{
         display: none;
     }
+    .footer .footer-content .links{
+        display: none;
+    }
+    .footer .footer-content .contact-form{
+        display: none;
+    }
 }
 
 .nav-active {
