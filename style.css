@@ -122,6 +122,7 @@ nav {
 
 .burger {
     display: none;
+    overflow-x: hidden;
 }
 
 .burger div{
